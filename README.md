@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi  👋
 ## About me:
 🌱 I’m currently learning embedded development. 
 
