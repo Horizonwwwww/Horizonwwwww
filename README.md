@@ -2,7 +2,7 @@
 ## About me:
 🌱 I’m currently learning embedded development. 
 
-📫 How to reach me: 2097247950@qq.com
+📫 How to reach me: 2097247950@qq.com :love_letter:
 
 [【click here】](https://mail.qq.com/)
 
