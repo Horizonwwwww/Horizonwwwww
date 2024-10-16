@@ -1,10 +1,12 @@
-# Hi  👋
-## About me:
+#   Hi  👋 :wave: Welcome :grey_exclamation:
+## :heart::heart::heart::heart::heart:
 🌱 I’m currently learning embedded development. 
 
-📫 How to reach me: 2097247950@qq.com :love_letter:
+📫 How to reach me: 2097247950@qq.com \  :love_letter:
 
-[【click here】](https://mail.qq.com/)
+:point_right:[【click here】](https://mail.qq.com/):point_left:
+
+:asterisk:	:one::five::five::seven::five::four::three::nine::nine::four::zero:
 
 
 
